@@ -1,0 +1,25 @@
+﻿  Source.cpp
+D:\Шаг_работа\ЕКО\ООП_С++\14-я неделя\Встреча_53\Project4\Source.cpp(22,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Шаг_работа\ЕКО\ООП_С++\14-я неделя\Встреча_53\Project4\Source.cpp(88,54): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(644,76): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(643): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<float> &std::tuple<float>::operator =<double,0>(std::tuple<double> &&) noexcept"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(645): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<float> &std::tuple<float>::operator =<double,0>(std::tuple<double> &&) noexcept"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(643): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<bool,float> &std::tuple<bool,float>::operator =<bool,double,0>(std::tuple<bool,double> &&) noexcept"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(645): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<bool,float> &std::tuple<bool,float>::operator =<bool,double,0>(std::tuple<bool,double> &&) noexcept"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(643): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<char,bool,float> &std::tuple<char,bool,float>::operator =<char,bool,double,0>(std::tuple<char,bool,double> &&) noexcept"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(645): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<char,bool,float> &std::tuple<char,bool,float>::operator =<char,bool,double,0>(std::tuple<char,bool,double> &&) noexcept"
+D:\Шаг_работа\ЕКО\ООП_С++\14-я неделя\Встреча_53\Project4\Source.cpp(39): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<int,char,bool,float> &std::tuple<int,char,bool,float>::operator =<int,char,bool,double,0>(std::tuple<int,char,bool,double> &&) noexcept"
+D:\Шаг_работа\ЕКО\ООП_С++\14-я неделя\Встреча_53\Project4\Source.cpp(39): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<int,char,bool,float> &std::tuple<int,char,bool,float>::operator =<int,char,bool,double,0>(std::tuple<int,char,bool,double> &&) noexcept"
+  Project4.vcxproj -> D:\Шаг_работа\ЕКО\ООП_С++\14-я неделя\Встреча_53\Project4\Debug\Project4.exe
